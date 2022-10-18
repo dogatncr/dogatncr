@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @dogatncr
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Kotlin for Android
+- 📫 How to reach me: https://www.linkedin.com/in/dogatuncer/
